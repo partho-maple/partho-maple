@@ -3,7 +3,11 @@
 󠀠󠀠👨🏽‍💻 󠀠󠀠  7+ years of professional experience in iOS platform, well-versed in Clean-Modular architecture, UI/UX, algorithm and data-structure. 
   <br>
   <br>
-  I built high performant apps, used by millions, and codebase that scales to 15+ concurrent engineers, drove the product vision for my company</h3>
+  I built high performant apps, used by millions, and codebase that scales to 15+ concurrent engineers, drove the product vision for my company
+  <br>
+  <br>
+  Open for new opportunities
+</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=partho-maple" alt="partho-maple" /> </p>
 
