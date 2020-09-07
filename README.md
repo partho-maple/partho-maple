@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋 my name is Partho</h1>
 <h3 align="center">I'm a passionate iOS Engineer󠀠<br>
-󠀠󠀠👨🏽‍💻 󠀠󠀠 ** 7+ ** years of professional experience in iOS platform, well-versed in Clean-Modular architecture, UI/UX, algorithm and data-structure. 
+󠀠󠀠👨🏽‍💻 󠀠󠀠  7+ years of professional experience in iOS platform, well-versed in Clean-Modular architecture, UI/UX, algorithm and data-structure. 
+  <br>
   <br>
   I built high performant apps, used by millions, and codebase that scales to 15+ concurrent engineers, drove the product vision for my company</h3>
 
