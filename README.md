@@ -8,7 +8,6 @@ high performant apps, used by millions, and codebase that scales to 15+ concurre
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=partho-maple&show_icons=true&count_private=true" alt="partho-maple" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=partho-maple&hide=html" alt="partho-maple" /> </p>
 
-- 🔭 󠀠 I’m currently working @[Glovo](https://github.com/Glovo?language=swift)
 
 - 📫 󠀠󠀠 How to reach me **partho.maple@gmail.com**
 
