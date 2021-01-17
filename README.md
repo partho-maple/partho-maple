@@ -6,7 +6,7 @@
   I built high performant apps, used by millions, and codebase that scales to 12+ concurrent engineers, drove the product vision for my company
   <br>
   <br>
-  Open for new opportunities
+<!--   Open for new opportunities -->
 </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=partho-maple" alt="partho-maple" /> </p>
