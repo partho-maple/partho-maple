@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="190" viewBox="0 0 1000 190" role="img" aria-label="Career: BizMotion 2013, IPVision 2014, Aurea 2017, Zalando 2021, Amazon 2022 to now"><title>Career: BizMotion 2013, IPVision 2014, Aurea 2017, Zalando 2021, Amazon 2022 to now</title><style>
+    .sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif} .mono{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}
+    .track{stroke-dasharray:1000;stroke-dashoffset:1000;animation:draw 2.2s cubic-bezier(.6,0,.2,1) forwards}
+    @keyframes draw{to{stroke-dashoffset:0}}
+    .node{opacity:0;animation:pop .6s cubic-bezier(.2,1.4,.4,1) forwards}
+    @keyframes pop{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+    .runner{animation:run 6s cubic-bezier(.5,0,.5,1) 2.2s infinite;opacity:0}
+    @keyframes run{0%{transform:translateX(0);opacity:0}8%{opacity:1}85%{opacity:1}100%{transform:translateX(800px);opacity:0}}
+    .now{transform-box:fill-box;transform-origin:center;animation:ping 2s ease-out infinite}
+    @keyframes ping{from{transform:scale(1);opacity:.6}to{transform:scale(2.6);opacity:0}}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important}.in,.card,.node,.role0{opacity:1!important}.track{stroke-dashoffset:0!important}.bar{transform:none!important}}</style>
+    <line x1="100.0" y1="64" x2="900.0" y2="64" stroke="#d0d7de" stroke-width="3"/>
+    <line class="track" x1="100.0" y1="64" x2="900.0" y2="64" stroke="#e0442b" stroke-width="3" stroke-linecap="round"/>
+    
+        <g class="node" style="animation-delay:0.35s">
+          <text class="mono" x="100.0" y="38" font-size="14" text-anchor="middle" fill="#59636e">2013</text>
+          <circle cx="100.0" cy="64" r="8" fill="#ffffff" stroke="#1f2328" stroke-width="3"/>
+          <text class="sans" x="100.0" y="106" font-size="20" font-weight="800" text-anchor="middle" fill="#1f2328">BizMotion</text>
+          <text class="sans" x="100.0" y="130" font-size="13.5" text-anchor="middle" fill="#1f2328">Mobile Engineer</text>
+          <text class="sans" x="100.0" y="156" font-size="12.5" text-anchor="middle" fill="#59636e">VoIP calling apps</text>
+          <text class="sans" x="100.0" y="175" font-size="12.5" font-weight="600" text-anchor="middle" fill="#d4760a">iOS &amp; Android, own SDK</text>
+        </g>
+        <g class="node" style="animation-delay:0.70s">
+          <text class="mono" x="300.0" y="38" font-size="14" text-anchor="middle" fill="#59636e">2014</text>
+          <circle cx="300.0" cy="64" r="8" fill="#ffffff" stroke="#1f2328" stroke-width="3"/>
+          <text class="sans" x="300.0" y="106" font-size="20" font-weight="800" text-anchor="middle" fill="#1f2328">IPVision</text>
+          <text class="sans" x="300.0" y="130" font-size="13.5" text-anchor="middle" fill="#1f2328">Senior Engineer</text>
+          <text class="sans" x="300.0" y="156" font-size="12.5" text-anchor="middle" fill="#59636e">Live voice, video &amp; chat</text>
+          <text class="sans" x="300.0" y="175" font-size="12.5" font-weight="600" text-anchor="middle" fill="#d4760a">ringID app, 5M users</text>
+        </g>
+        <g class="node" style="animation-delay:1.05s">
+          <text class="mono" x="500.0" y="38" font-size="14" text-anchor="middle" fill="#59636e">2017</text>
+          <circle cx="500.0" cy="64" r="8" fill="#ffffff" stroke="#1f2328" stroke-width="3"/>
+          <text class="sans" x="500.0" y="106" font-size="20" font-weight="800" text-anchor="middle" fill="#1f2328">Aurea</text>
+          <text class="sans" x="500.0" y="130" font-size="13.5" text-anchor="middle" fill="#1f2328">Software Architect</text>
+          <text class="sans" x="500.0" y="156" font-size="12.5" text-anchor="middle" fill="#59636e">Enterprise CRM &amp; team apps</text>
+          <text class="sans" x="500.0" y="175" font-size="12.5" font-weight="600" text-anchor="middle" fill="#d4760a">rewrite, 2x faster start</text>
+        </g>
+        <g class="node" style="animation-delay:1.40s">
+          <text class="mono" x="700.0" y="38" font-size="14" text-anchor="middle" fill="#59636e">2021</text>
+          <circle cx="700.0" cy="64" r="8" fill="#ffffff" stroke="#1f2328" stroke-width="3"/>
+          <text class="sans" x="700.0" y="106" font-size="20" font-weight="800" text-anchor="middle" fill="#1f2328">Zalando</text>
+          <text class="sans" x="700.0" y="130" font-size="13.5" text-anchor="middle" fill="#1f2328">Mobile Foundation</text>
+          <text class="sans" x="700.0" y="156" font-size="12.5" text-anchor="middle" fill="#59636e">Base of Zalando&#x27;s apps</text>
+          <text class="sans" x="700.0" y="175" font-size="12.5" font-weight="600" text-anchor="middle" fill="#d4760a">sign-in for 80M users</text>
+        </g>
+        <g class="node" style="animation-delay:1.75s">
+          <text class="mono" x="900.0" y="38" font-size="14" text-anchor="middle" fill="#59636e">2022 → now</text>
+          <circle class="now" cx="900.0" cy="64" r="9" fill="#e0442b"/><circle cx="900.0" cy="64" r="8" fill="#ffffff" stroke="#e0442b" stroke-width="3"/>
+          <text class="sans" x="900.0" y="106" font-size="20" font-weight="800" text-anchor="middle" fill="#e0442b">Amazon</text>
+          <text class="sans" x="900.0" y="130" font-size="13.5" text-anchor="middle" fill="#1f2328">Mobile Engineering</text>
+          <text class="sans" x="900.0" y="156" font-size="12.5" text-anchor="middle" fill="#59636e">Fire TV org, phone remote</text>
+          <text class="sans" x="900.0" y="175" font-size="12.5" font-weight="600" text-anchor="middle" fill="#d4760a">20M+ daily users</text>
+        </g>
+    <circle class="runner" cx="100.0" cy="64" r="4.5" fill="#d4760a"/>
+    </svg>

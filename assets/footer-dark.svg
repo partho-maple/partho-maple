@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="120" viewBox="0 0 1000 120" role="img" aria-label="Thanks for stopping by"><title>Thanks for stopping by</title><style>
+    .sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+    .w{fill:none;stroke-width:2;animation:sl 8s linear infinite}
+    @keyframes sl{to{transform:translateX(-200px)}}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important}.in,.card,.node,.role0{opacity:1!important}.track{stroke-dashoffset:0!important}.bar{transform:none!important}}</style>
+    <defs><linearGradient id="f" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".15" stop-color="#fff"/><stop offset=".85" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+      <mask id="m"><rect width="1000" height="120" fill="url(#f)"/></mask></defs>
+    <g mask="url(#m)"><path class="w" style="animation-duration:7s" d="M0 46 q 50 -14 100 0 q 50 14 100 0 q 50 -14 100 0 q 50 14 100 0 q 50 -14 100 0 q 50 14 100 0 q 50 -14 100 0 q 50 14 100 0 q 50 -14 100 0 q 50 14 100 0 q 50 -14 100 0 q 50 14 100 0 q 50 -14 100 0 q 50 14 100 0" stroke="#f05138" opacity="0.9"/><path class="w" style="animation-duration:11s" d="M0 46 q 50 -9 100 0 q 50 9 100 0 q 50 -9 100 0 q 50 9 100 0 q 50 -9 100 0 q 50 9 100 0 q 50 -9 100 0 q 50 9 100 0 q 50 -9 100 0 q 50 9 100 0 q 50 -9 100 0 q 50 9 100 0 q 50 -9 100 0 q 50 9 100 0" stroke="#ffa657" opacity="0.6"/><path class="w" style="animation-duration:15s" d="M0 46 q 50 -5 100 0 q 50 5 100 0 q 50 -5 100 0 q 50 5 100 0 q 50 -5 100 0 q 50 5 100 0 q 50 -5 100 0 q 50 5 100 0 q 50 -5 100 0 q 50 5 100 0 q 50 -5 100 0 q 50 5 100 0 q 50 -5 100 0 q 50 5 100 0" stroke="#58a6ff" opacity="0.5"/></g>
+    <text class="sans" x="500.0" y="104" font-size="15" text-anchor="middle" fill="#8b949e">
+      Thanks for stopping by. If you're building something people open every day, let's talk.</text>
+    </svg>

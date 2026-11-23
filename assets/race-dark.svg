@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" role="img" aria-label="Build race: the monolith build needs three coffees; the modular build finishes in 30% of the time"><title>Build race: the monolith build needs three coffees; the modular build finishes in 30% of the time</title><style>
+    .sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif} .mono{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}
+    .slow{transform-box:fill-box;transform-origin:left;animation:slow 12s linear infinite}
+    @keyframes slow{0%{transform:scaleX(0)}95%,100%{transform:scaleX(1)}}
+    .fast{transform-box:fill-box;transform-origin:left;animation:fast 12s cubic-bezier(.3,0,.3,1) infinite}
+    @keyframes fast{0%{transform:scaleX(0)}28.5%,100%{transform:scaleX(1)}}
+    .w{opacity:0;animation:w 12s steps(1) infinite}
+    @keyframes w{0%{opacity:0}1%{opacity:1}33%,100%{opacity:0}}
+    .cup{opacity:0;animation:cup 12s steps(1) infinite}
+    @keyframes cup{0%{opacity:1}100%{opacity:0}}
+    .done{opacity:0;animation:done 12s infinite}
+    @keyframes done{0%,28%{opacity:0;transform:translateY(6px)}31%,97%{opacity:1;transform:none}100%{opacity:0}}
+    .steam{animation:steam 1.6s ease-in-out infinite}
+    @keyframes steam{0%,100%{transform:translateY(0);opacity:.3}50%{transform:translateY(-3px);opacity:.9}}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important}.in,.card,.node,.role0{opacity:1!important}.track{stroke-dashoffset:0!important}.bar{transform:none!important}}</style>
+    <text class="sans" x="30" y="52" font-size="16" font-weight="700" fill="#e6edf3">Before</text>
+    <text class="sans" x="30" y="72" font-size="13" fill="#8b949e">one big monolith</text>
+    <rect x="290" y="38" width="560" height="24" rx="12" fill="#161b22" stroke="#30363d"/>
+    <rect class="slow" x="290" y="38" width="560" height="24" rx="12" fill="#8b949e" fill-opacity=".55"/>
+    <style>@keyframes m0{0%,0.00%{opacity:1}0.00%,31.66%{opacity:1}31.67%,100%{opacity:0}}</style><text class="mono" x="290" y="84" font-size="13" fill="#8b949e" style="animation:m0 12s steps(1) infinite;opacity:0">compiling…</text><style>@keyframes m1{0%,31.66%{opacity:0}31.67%,63.32%{opacity:1}63.33%,100%{opacity:0}}</style><text class="mono" x="290" y="84" font-size="13" fill="#8b949e" style="animation:m1 12s steps(1) infinite;opacity:0">still compiling… coffee #2</text><style>@keyframes m2{0%,63.32%{opacity:0}63.33%,94.99%{opacity:1}95.00%,100%{opacity:0}}</style><text class="mono" x="290" y="84" font-size="13" fill="#8b949e" style="animation:m2 12s steps(1) infinite;opacity:0">coffee #3. is it Friday yet?</text><style>@keyframes c0{0%,23.74%{opacity:0}23.75%,97%{opacity:1}100%{opacity:0}}</style><g style="animation:c0 12s steps(1) infinite;opacity:0"><g transform="translate(874 30)"><path d="M0 4 h16 v10 a6 6 0 0 1 -6 6 h-4 a6 6 0 0 1 -6 -6 Z" fill="#ffa657"/><path d="M16 7 h3 a3 3 0 0 1 0 7 h-3" fill="none" stroke="#ffa657" stroke-width="2"/><path class="steam" d="M5 0 q2 -3 0 -6 M11 0 q2 -3 0 -6" fill="none" stroke="#8b949e" stroke-width="1.5" stroke-linecap="round"/></g></g><style>@keyframes c1{0%,47.49%{opacity:0}47.50%,97%{opacity:1}100%{opacity:0}}</style><g style="animation:c1 12s steps(1) infinite;opacity:0"><g transform="translate(904 30)"><path d="M0 4 h16 v10 a6 6 0 0 1 -6 6 h-4 a6 6 0 0 1 -6 -6 Z" fill="#ffa657"/><path d="M16 7 h3 a3 3 0 0 1 0 7 h-3" fill="none" stroke="#ffa657" stroke-width="2"/><path class="steam" d="M5 0 q2 -3 0 -6 M11 0 q2 -3 0 -6" fill="none" stroke="#8b949e" stroke-width="1.5" stroke-linecap="round"/></g></g><style>@keyframes c2{0%,71.24%{opacity:0}71.25%,97%{opacity:1}100%{opacity:0}}</style><g style="animation:c2 12s steps(1) infinite;opacity:0"><g transform="translate(934 30)"><path d="M0 4 h16 v10 a6 6 0 0 1 -6 6 h-4 a6 6 0 0 1 -6 -6 Z" fill="#ffa657"/><path d="M16 7 h3 a3 3 0 0 1 0 7 h-3" fill="none" stroke="#ffa657" stroke-width="2"/><path class="steam" d="M5 0 q2 -3 0 -6 M11 0 q2 -3 0 -6" fill="none" stroke="#8b949e" stroke-width="1.5" stroke-linecap="round"/></g></g>
+    <text class="sans" x="30" y="142" font-size="16" font-weight="700" fill="#e6edf3">After</text>
+    <text class="sans" x="30" y="162" font-size="13" fill="#8b949e">modular, cached, parallel</text>
+    <rect x="290" y="128" width="560" height="24" rx="12" fill="#161b22" stroke="#30363d"/>
+    <rect class="fast" x="290" y="128" width="168" height="24" rx="12" fill="#f05138"/>
+    <g class="done">
+      <path d="M474 140 l6 6 l12 -13" fill="none" stroke="#3fb950" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <text class="mono" x="502" y="145" font-size="13" fill="#e6edf3">shipped. went outside.</text>
+      <text class="sans" x="874" y="150" font-size="30" font-weight="800" fill="#f05138">-70%</text>
+    </g>
+    </svg>
